@@ -45,10 +45,7 @@
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sheikh-faizan-4a9a29326/)
-- 💻 [Portfolio](https://yourportfolio.com/)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
 
----
 
-*“From kitchen heat to coding heat – Building tech and analyzing markets with passion.”*
+
 
