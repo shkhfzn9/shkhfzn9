@@ -1,51 +1,94 @@
-# 👋 Hey there! I'm Sheikh Faizan
+Here's a clean, well-structured `README.md` file with all sections properly formatted:
 
-🚀 A passionate Full Stack Developer |🧠 Always In Learning
+```markdown
+# Sheikh Faizan  
+### Full Stack Developer | AI & Cloud Specialist  
 
----
-
-## 👨‍💻 About Me
-
-- 🌱 Currently leveling up in **.NET and C#** while keeping my **MERN** skills sharp.
-- 💼 Past work experience with **MaxCareerConsultancy** and **NetGene Infocom**, building scalable web solutions.
-- 🛠 Built projects like:
-  - **💬 Real-time Chat App** with Socket.io & MongoDB
-  - **🛒 MIT Marketplace** – a full-featured eCommerce platform
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=435&lines=Building+Scalable+Web+Apps;Generative+AI+Enthusiast;.NET+%7C+MERN+%7C+LLMs;Cloud+Native+Solutions" alt="Typing SVG" />
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Stack  
 
-**Frontend:**
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?logo=react)
+### Languages & Frameworks  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express)
-![.NET](https://img.shields.io/badge/-ASP.NET-purple?logo=dotnet)
+### AI/ML & Cloud  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 
-**Database:**
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?logo=microsoftsqlserver)
+### **Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudiocode)
+### **Vector Databases & AI Tools**  
+![Pinecone](https://img.shields.io/badge/Pinecone-430098?logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFCA28?logo=chroma&logoColor=black)
+
 
 ---
 
+## 🚀 Featured Projects  
 
+| Project              | Tech Stack                          | Description                                      |
+|----------------------|-------------------------------------|--------------------------------------------------|
+| **AI Quiz**          | Gemini, Firebase                    | Generates personalized interview Q&A using RAG   |
+| **Medical Chatbot**  | LlamaIndex, Vertex AI               | HIPAA-compliant medical assistant                |
+| **Stock Analyzer**   | Gemini,  Finance API                | Real-time financial insights                     |
+| **E-Commerce Platform** | ASP.NET Core, React,             | Full-featured marketplace                        |
+| **AI Code Analyzer** | Gemini, LangChain, Python           | End-to-end source code analysis with context-aware explanations |
 
-## 📫 Let's Connect!
+---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sheikh-faizan-4a9a29326/)
+## 📈 GitHub Stats  
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SheikhFaizan&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhFaizan&layout=compact&theme=radical" />
+</div>
 
+---
 
+## 📚 Learning Path  
+```mermaid
+graph LR
+  A[.NET Core] --> B[Microservices]
+  C[LLMs] --> D[Fine-Tuning]
+  E[AWS] --> F[Bedrock]
+  G[LangChain] --> H[LLMOps]
+```
 
+---
+
+## 📫 Let's Connect  
+<div align="left">
+  <a href="https://www.linkedin.com/in/sheikh-faizan-4a9a29326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SheikhFaizan">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+> "Turning complex problems into elegant solutions with code and AI"  
+> - Sheikh Faizan
+```
