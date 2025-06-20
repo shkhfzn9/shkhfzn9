@@ -49,16 +49,7 @@
 | **E-Commerce Platform** | ASP.NET Core, React              | Full-featured e-commerce marketplace                         |
 | **AI Code Analyzer**  | Gemini, LangChain, Python          | End-to-end source code analysis with context-aware insights  |
 
----
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SheikhFaizan&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhFaizan&layout=compact&theme=radical" />
-</div>
-
----
 
 ## 📚 Learning Path  
 ```mermaid
